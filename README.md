@@ -1,9 +1,9 @@
-#moneypoly v2
+##moneypoly v2
 
 An expense tracking app with the possibility to split the bills.
 
-#Built With
+##Built With
 
-React-Native - used Web Framework
-Redux - for State Management
-Firebase - for User Authentication
+**React-Native** - used Web Framework
+**Redux** - for State Management
+**Firebase** - for User Authentication
